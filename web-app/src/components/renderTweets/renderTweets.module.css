@@ -1,0 +1,12 @@
+.card{
+    width:65%;
+    padding:20px;
+    margin: 20px 0;
+    box-sizing:border-box;
+}
+.alignment{
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+    height: 5px;
+}

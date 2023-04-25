@@ -1,0 +1,80 @@
+.imageContainer{
+    display:flex;
+    justify-content: center;
+}
+.image{
+    width: 520px;
+    height: 220px;
+    border-radius: 1rem;
+}
+.searchbar{
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+.searchbarfield{
+    height: 50px;
+    width: 500px;
+    border-radius: 1rem;
+}
+.button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.filter{
+    
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-left: -15px;
+    margin-top: 10px;
+}
+.spellSuggestion {
+    display:flex;
+    flex-direction: row;
+    margin-top: 10px;
+    justify-content: center;
+    padding-right: 200px;
+    height:20px;
+}
+.spellings{
+    display:flex;
+    position: absolute;
+    margin-left:380px;
+    width:500px;
+    
+}
+.card {
+    display:flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+.listnum{
+    margin-top: 20px;
+    margin-left: 170px;
+    width:auto;
+    display: flex;
+}
+.listnum2{
+    margin-left: 680px;
+    position: absolute;
+}
+.pagination{
+    display:flex;
+    justify-content: center;
+}
+
+.card2{
+    width:65%;
+    padding:20px;
+    margin: 20px 0;
+    box-sizing:border-box;
+}
+
+.topPagination{
+    display:flex;
+    flex-direction: row;
+}
