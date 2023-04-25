@@ -11,10 +11,10 @@
   <a href="">
     <img src="https://img.shields.io/github/last-commit/aish21/CZ4034-Information-Retrieval" alt="last commit" />
   </a>
-  <a href="https://github.com/aish21/VirtualEYE-FYP/stargazers/">
+  <a href="https://github.com/aish21/CZ4034-Information-Retrieval/stargazers/">
     <img src="https://img.shields.io/github/stars/aish21/CZ4034-Information-Retrieval" alt="stars" />
   </a>
-  <a href="https://github.com/aish21/VirtualEYE-FYP/issues/">
+  <a href="https://github.com/aish21/CZ4034-Information-Retrieval/issues/">
     <img src="https://img.shields.io/github/issues/aish21/CZ4034-Information-Retrieval" alt="open issues" />
   </a>
 </p>
